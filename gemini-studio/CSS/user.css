@@ -1,0 +1,34 @@
+body {
+  font-family: Helvetica;
+
+}
+.lgraphcanvas{
+    font-family: Helvetica;
+}
+
+.graph-canvas-container{
+ font-family:Helvetica;
+ letter-spacing: 1.2px;
+/*background-image: url("https://4kwallpapers.com/images/wallpapers/windows-11-stock-official-light-3840x2400-5662.png"); */
+   background-image: url("https://res.allmacwallpaper.com/get/MacBook-Pro-12-inch-4K-Retina-wallpapers/flint-blur-5k-2304x1440/21531-14.jpg");
+   background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+ 
+ 
+ 
+ .lgraphcanvas {
+ font-family:Helvetica;
+ letter-spacing: 1.2px;
+   
+}
+.dynamic_prompt {
+ font-family:Helvetica;
+letter-spacing: 1.2px;
+word-spacing: 4px;
+ background-color: rgba(0,0,0,0.7);
+}
+
+
